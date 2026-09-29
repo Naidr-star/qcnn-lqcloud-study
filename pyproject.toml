@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qcnn-lqcloud-study"
+version = "0.1.0"
+description = "QCNN experimental report, anonymized outcomes and reproducible statistical analysis"
+requires-python = ">=3.11,<3.13"
+dependencies = ["numpy>=1.26,<3"]
+
+[project.optional-dependencies]
+plots = ["matplotlib>=3.8,<4"]
+quantum = ["qiskit>=2,<3", "lqcloud==0.5.0"]
+test = ["pytest>=8,<10"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-p no:cacheprovider"

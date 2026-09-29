@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "literature_source": {
+    "url": "https://www.ionq.com/resources/benchmarking-white-paper",
+    "pdf_url": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/69dd58079b6564fced0009fa_IonQ_Benchmarking_White_Paper.pdf",
+    "section": "2.5",
+    "page": 23,
+    "figure": 8,
+    "hardware_series": "IonQ Aria 1 + custom error mitigation",
+    "qpu_values_are_digitized": true,
+    "ideal_values_rounded_to_percentage_point": true,
+    "raw_qpu_series_available_in_figure": false,
+    "matched_per_image_predictions_available": false
+  },
+  "cases": [
+    {
+      "case": "16q 1/7",
+      "local_asset_label_counts": [
+        25,
+        25
+      ],
+      "lqcloud_raw": {
+        "correct": 35,
+        "total": 50
+      },
+      "local_aer_finite_sample": {
+        "correct": 40,
+        "total": 50
+      },
+      "paper_ideal_accuracy_approx": 0.89,
+      "paper_aria_em_accuracy_approx": 0.72
+    },
+    {
+      "case": "16q 1/0",
+      "local_asset_label_counts": [
+        50,
+        0
+      ],
+      "lqcloud_raw": {
+        "correct": 48,
+        "total": 50
+      },
+      "local_aer_finite_sample": {
+        "correct": 48,
+        "total": 50
+      },
+      "paper_ideal_accuracy_approx": 0.95,
+      "paper_aria_em_accuracy_approx": 0.96
+    },
+    {
+      "case": "9q 1/0",
+      "local_asset_label_counts": [
+        50,
+        0
+      ],
+      "lqcloud_raw": {
+        "correct": 50,
+        "total": 50
+      },
+      "local_aer_finite_sample": {
+        "correct": 49,
+        "total": 50
+      },
+      "paper_ideal_accuracy_approx": 1.0,
+      "paper_aria_em_accuracy_approx": 1.0
+    },
+    {
+      "case": "9q 1/7",
+      "local_asset_label_counts": [
+        50,
+        0
+      ],
+      "lqcloud_raw": {
+        "correct": 27,
+        "total": 50
+      },
+      "local_aer_finite_sample": {
+        "correct": 48,
+        "total": 50
+      },
+      "paper_ideal_accuracy_approx": 0.95,
+      "paper_aria_em_accuracy_approx": 0.84
+    }
+  ],
+  "scope": "Retained exploratory LQCloud observations; configurations differ by case. Paper results are non-paired historical references. Local asset class counts do not establish the paper's exact image identities or class distribution."
+}

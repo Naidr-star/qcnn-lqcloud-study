@@ -1,0 +1,725 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "sample_id": "H001",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H007",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H011",
+      "label": 0,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H016",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H017",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H021",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 1,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H023",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H024",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H026",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H030",
+      "label": 0,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H031",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H032",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H033",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H034",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H037",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H039",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H042",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H050",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H061",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H064",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H066",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H067",
+      "label": 0,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H069",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 1,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H073",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H076",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H077",
+      "label": 0,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H078",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H080",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H081",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 1,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H082",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H083",
+      "label": 0,
+      "initial": 1,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H084",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H085",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H101",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H102",
+      "label": 0,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H104",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H105",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H106",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H108",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H109",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H110",
+      "label": 1,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 1,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H119",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 0,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H120",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H121",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H125",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H127",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 0,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H129",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H131",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 1,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H135",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H136",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H139",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H140",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H141",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H142",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H150",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H151",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H153",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H154",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H157",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H158",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 1,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H159",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H161",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H163",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H165",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H166",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H167",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H170",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H171",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H173",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 1,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H175",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H177",
+      "label": 1,
+      "initial": 0,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H182",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H184",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H185",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 0,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H188",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H192",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H195",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    },
+    {
+      "sample_id": "H197",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H199",
+      "label": 1,
+      "initial": 1,
+      "session1_frozen": 1,
+      "session1_refitted": 1,
+      "session2_frozen": 1,
+      "session2_refitted": 1
+    },
+    {
+      "sample_id": "H200",
+      "label": 0,
+      "initial": 0,
+      "session1_frozen": 0,
+      "session1_refitted": 0,
+      "session2_frozen": 0,
+      "session2_refitted": 0
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "schema_version": 1,
+  "holdout": {
+    "qpu_original_head": {
+      "correct": 100,
+      "total": 200,
+      "accuracy": 0.5,
+      "wilson_95": [
+        0.43136085960389187,
+        0.5686391403961081
+      ],
+      "confusion_matrix": [
+        [
+          100,
+          0
+        ],
+        [
+          100,
+          0
+        ]
+      ],
+      "scope": "Fixed fitted model and acquired test conditions; not a guarantee of future hardware stability.",
+      "prediction_class_counts": [
+        200,
+        0
+      ]
+    },
+    "qpu_calibrated": {
+      "correct": 176,
+      "total": 200,
+      "accuracy": 0.88,
+      "wilson_95": [
+        0.8276574790170326,
+        0.9180200729362449
+      ],
+      "confusion_matrix": [
+        [
+          83,
+          17
+        ],
+        [
+          7,
+          93
+        ]
+      ],
+      "scope": "Fixed fitted model and acquired test conditions; not a guarantee of future hardware stability.",
+      "prediction_class_counts": [
+        90,
+        110
+      ]
+    },
+    "ideal_calibrated": {
+      "correct": 180,
+      "total": 200,
+      "accuracy": 0.9,
+      "wilson_95": [
+        0.8505941875672827,
+        0.934329551330904
+      ],
+      "confusion_matrix": [
+        [
+          80,
+          20
+        ],
+        [
+          0,
+          100
+        ]
+      ],
+      "scope": "Fixed fitted model and acquired test conditions; not a guarantee of future hardware stability.",
+      "prediction_class_counts": [
+        80,
+        120
+      ]
+    }
+  },
+  "qpu_minus_ideal_paired": {
+    "baseline_only_correct": 15,
+    "candidate_only_correct": 11,
+    "both_correct": 165,
+    "both_wrong": 9,
+    "accuracy_difference": -0.02,
+    "exact_mcnemar_p": 0.557197093963623,
+    "scope": "Descriptive paired test conditional on these predictions; not an equivalence test or a causal attribution."
+  },
+  "temporal": {
+    "initial": {
+      "correct": 72,
+      "total": 80,
+      "accuracy": 0.9,
+      "wilson_95": [
+        0.8148931119389593,
+        0.9484523844326194
+      ],
+      "confusion_matrix": [
+        [
+          34,
+          6
+        ],
+        [
+          2,
+          38
+        ]
+      ],
+      "scope": "Fixed fitted model and acquired test conditions; not a guarantee of future hardware stability.",
+      "prediction_class_counts": [
+        36,
+        44
+      ]
+    },
+    "session1_frozen": {
+      "correct": 70,
+      "total": 80,
+      "accuracy": 0.875,
+      "wilson_95": [
+        0.7849719790084034,
+        0.9306644238399514
+      ],
+      "confusion_matrix": [
+        [
+          33,
+          7
+        ],
+        [
+          3,
+          37
+        ]
+      ],
+      "scope": "Fixed fitted model and acquired test conditions; not a guarantee of future hardware stability.",
+      "prediction_class_counts": [
+        36,
+        44
+      ]
+    },
+    "session1_refitted": {
+      "correct": 70,
+      "total": 80,
+      "accuracy": 0.875,
+      "wilson_95": [
+        0.7849719790084034,
+        0.9306644238399514
+      ],
+      "confusion_matrix": [
+        [
+          32,
+          8
+        ],
+        [
+          2,
+          38
+        ]
+      ],
+      "scope": "Fixed fitted model and acquired test conditions; not a guarantee of future hardware stability.",
+      "prediction_class_counts": [
+        34,
+        46
+      ]
+    },
+    "session2_frozen": {
+      "correct": 63,
+      "total": 80,
+      "accuracy": 0.7875,
+      "wilson_95": [
+        0.6857784426940335,
+        0.8628761328230387
+      ],
+      "confusion_matrix": [
+        [
+          29,
+          11
+        ],
+        [
+          6,
+          34
+        ]
+      ],
+      "scope": "Fixed fitted model and acquired test conditions; not a guarantee of future hardware stability.",
+      "prediction_class_counts": [
+        35,
+        45
+      ]
+    },
+    "session2_refitted": {
+      "correct": 67,
+      "total": 80,
+      "accuracy": 0.8375,
+      "wilson_95": [
+        0.7415709565930231,
+        0.9025018059704966
+      ],
+      "confusion_matrix": [
+        [
+          32,
+          8
+        ],
+        [
+          5,
+          35
+        ]
+      ],
+      "scope": "Fixed fitted model and acquired test conditions; not a guarantee of future hardware stability.",
+      "prediction_class_counts": [
+        37,
+        43
+      ]
+    }
+  },
+  "refitted_minus_frozen_paired": {
+    "session1": {
+      "baseline_only_correct": 3,
+      "candidate_only_correct": 3,
+      "both_correct": 67,
+      "both_wrong": 7,
+      "accuracy_difference": 0.0,
+      "exact_mcnemar_p": 1.0,
+      "scope": "Descriptive paired test conditional on these predictions; not an equivalence test or a causal attribution."
+    },
+    "session2": {
+      "baseline_only_correct": 2,
+      "candidate_only_correct": 6,
+      "both_correct": 61,
+      "both_wrong": 11,
+      "accuracy_difference": 0.05,
+      "exact_mcnemar_p": 0.2890625,
+      "scope": "Descriptive paired test conditional on these predictions; not an equivalence test or a causal attribution."
+    }
+  },
+  "benchmark_reference": [
+    {
+      "case": "16q 1/7",
+      "local_asset_label_counts": [
+        25,
+        25
+      ],
+      "lqcloud_raw": {
+        "correct": 35,
+        "total": 50
+      },
+      "local_aer_finite_sample": {
+        "correct": 40,
+        "total": 50
+      },
+      "paper_ideal_accuracy_approx": 0.89,
+      "paper_aria_em_accuracy_approx": 0.72
+    },
+    {
+      "case": "16q 1/0",
+      "local_asset_label_counts": [
+        50,
+        0
+      ],
+      "lqcloud_raw": {
+        "correct": 48,
+        "total": 50
+      },
+      "local_aer_finite_sample": {
+        "correct": 48,
+        "total": 50
+      },
+      "paper_ideal_accuracy_approx": 0.95,
+      "paper_aria_em_accuracy_approx": 0.96
+    },
+    {
+      "case": "9q 1/0",
+      "local_asset_label_counts": [
+        50,
+        0
+      ],
+      "lqcloud_raw": {
+        "correct": 50,
+        "total": 50
+      },
+      "local_aer_finite_sample": {
+        "correct": 49,
+        "total": 50
+      },
+      "paper_ideal_accuracy_approx": 1.0,
+      "paper_aria_em_accuracy_approx": 1.0
+    },
+    {
+      "case": "9q 1/7",
+      "local_asset_label_counts": [
+        50,
+        0
+      ],
+      "lqcloud_raw": {
+        "correct": 27,
+        "total": 50
+      },
+      "local_aer_finite_sample": {
+        "correct": 48,
+        "total": 50
+      },
+      "paper_ideal_accuracy_approx": 0.95,
+      "paper_aria_em_accuracy_approx": 0.84
+    }
+  ],
+  "reported_sensitivity_not_recomputed": {
+    "shot_model": {
+      "median_accuracy": 0.84,
+      "conditional_95_range": [
+        0.8,
+        0.875
+      ]
+    },
+    "calibration_resampling": {
+      "median_accuracy": 0.85,
+      "conditional_95_range": [
+        0.79,
+        0.885
+      ]
+    },
+    "evidence_type": "reported aggregate, not recomputed from public outcome records"
+  },
+  "reproduction_scope": "Holdout and temporal statistics are recalculated from anonymized outcome records. Literature and sensitivity aggregates are referenced inputs, not newly estimated hardware results."
+}

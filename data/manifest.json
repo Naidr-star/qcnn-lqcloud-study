@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "sha256": {
+    "benchmark_reference.json": "46c67eac28e462474fbffdb1bedc0ab427b9fac5969ee7e29c51e92fff5e777b",
+    "holdout_predictions.json": "19ac379c40a6f0dc7e884d575ec9ae885a190848624cf93d7319e774f158538f",
+    "study.json": "c94ab10b67ec6072f4fb31680c56287a38349c4b9b1b555adef9fba84f1bfed2",
+    "temporal_predictions.json": "9ba2553d67972d6256d0b1cca011607d1c58ccd55addc4406b7dc3dd0748322c"
+  },
+  "scope": "Integrity binding for released analysis inputs; not certification of private acquisition records."
+}

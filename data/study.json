@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "study": "QCNN MNIST 1/7 application evaluation",
+  "logical_qubits": 16,
+  "label_to_digit": {
+    "0": 7,
+    "1": 1
+  },
+  "calibration_images": 20,
+  "calibration_class_counts": [
+    10,
+    10
+  ],
+  "holdout_images": 200,
+  "holdout_class_counts": [
+    100,
+    100
+  ],
+  "temporal_panel_images": 80,
+  "temporal_panel_class_counts": [
+    40,
+    40
+  ],
+  "primary_method": "standardized centroids with fixed per-route majority aggregation",
+  "ideal_method": "same calibration identities and centroid rule, fitted on exact noiseless features",
+  "confidence": 0.95,
+  "paired_test": "two-sided exact McNemar; descriptive, not an equivalence test",
+  "reported_sensitivity": {
+    "shot_model": {
+      "median_accuracy": 0.84,
+      "conditional_95_range": [
+        0.8,
+        0.875
+      ]
+    },
+    "calibration_resampling": {
+      "median_accuracy": 0.85,
+      "conditional_95_range": [
+        0.79,
+        0.885
+      ]
+    },
+    "evidence_type": "reported aggregate, not recomputed from public outcome records"
+  },
+  "data_scope": "Anonymized derived predictions and aggregate references. IDs and order do not encode source-image identity or execution order. No input images, measurement counts, features or fitted parameters are distributed."
+}

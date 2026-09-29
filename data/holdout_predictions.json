@@ -1,0 +1,1405 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "sample_id": "H001",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H002",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H003",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H004",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H005",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H006",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H007",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H008",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H009",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H010",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H011",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H012",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H013",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H014",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H015",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H016",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H017",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H018",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H019",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H020",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H021",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H022",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H023",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H024",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H025",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H026",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H027",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H028",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H029",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H030",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H031",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H032",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H033",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H034",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H035",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H036",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H037",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H038",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H039",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H040",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H041",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H042",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H043",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H044",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H045",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H046",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H047",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H048",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H049",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H050",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H051",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H052",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H053",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H054",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H055",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H056",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H057",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H058",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H059",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H060",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H061",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H062",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H063",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H064",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H065",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H066",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H067",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H068",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H069",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H070",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H071",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H072",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H073",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H074",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H075",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H076",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H077",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H078",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H079",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H080",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H081",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H082",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H083",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H084",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H085",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H086",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H087",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H088",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H089",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H090",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H091",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H092",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H093",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H094",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H095",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H096",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H097",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H098",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H099",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H100",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H101",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H102",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H103",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H104",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H105",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H106",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H107",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H108",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H109",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H110",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H111",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H112",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H113",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H114",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H115",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H116",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H117",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H118",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H119",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H120",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H121",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H122",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H123",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H124",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H125",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H126",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H127",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H128",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H129",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H130",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H131",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H132",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H133",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H134",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H135",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H136",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H137",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H138",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H139",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H140",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H141",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H142",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H143",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H144",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H145",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H146",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H147",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H148",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H149",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H150",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H151",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H152",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H153",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H154",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H155",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H156",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H157",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H158",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H159",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H160",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H161",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H162",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H163",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H164",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H165",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H166",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H167",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H168",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H169",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H170",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H171",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H172",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H173",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H174",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H175",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H176",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H177",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H178",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H179",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H180",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H181",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H182",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H183",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H184",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H185",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H186",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H187",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H188",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H189",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H190",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H191",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H192",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H193",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H194",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H195",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H196",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    },
+    {
+      "sample_id": "H197",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H198",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H199",
+      "label": 1,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 1,
+      "ideal_calibrated": 1
+    },
+    {
+      "sample_id": "H200",
+      "label": 0,
+      "qpu_original_head": 0,
+      "qpu_calibrated": 0,
+      "ideal_calibrated": 0
+    }
+  ]
+}
